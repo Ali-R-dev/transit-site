@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://transit.araza.me/sitemap.xml
